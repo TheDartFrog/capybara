@@ -1,0 +1,14 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Renderables/Models/coconut_doggie_2x.obj",
+         "pose0" : "$CONTENT_DATA/Objects/Renderables/Models/coconut_doggie_squish_2x.obj",
+         "subMeshMap" : {
+            "Material.001" : {
+               "material" : "PoseAnimDif",
+               "textureList" : [ "$CONTENT_DATA/Objects/Renderables/Textures/capybara_dif.png", "", "" ]
+            }
+         }
+      }
+   ]
+}

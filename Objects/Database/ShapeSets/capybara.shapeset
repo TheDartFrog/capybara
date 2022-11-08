@@ -1,0 +1,50 @@
+{
+   "partList" : [
+      {
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Renderables/Models/coconut_doggie.obj",
+            "x" : 1,
+            "y" : 2,
+            "z" : 4
+         },
+         "name" : "obj_capybara",
+         "physicsMaterial" : "Potato",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 10,
+            "friction" : 2
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/capybara1.rend",
+         "rotationSet" : "PropY",
+         "scripted" : {
+            "classname" : "Horn",
+            "filename" : "$CONTENT_DATA/Scripts/hornibara.lua"
+         },
+         "uuid" : "02c789ed-4291-454d-8888-a5185547f622"
+      },
+      {
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Renderables/Models/coconut_doggie_2x.obj",
+            "x" : 2,
+            "y" : 4,
+            "z" : 8
+         },
+         "name" : "obj_capybara_2x",
+         "physicsMaterial" : "Potato",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 10,
+            "friction" : 2
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/capybara2.rend",
+         "rotationSet" : "PropY",
+         "scripted" : {
+            "classname" : "Horn",
+            "filename" : "$CONTENT_DATA/Scripts/hornibara.lua"
+         },
+         "uuid" : "b954f5a6-8996-4e04-97f6-04dde784d361"
+      }
+   ]
+}
