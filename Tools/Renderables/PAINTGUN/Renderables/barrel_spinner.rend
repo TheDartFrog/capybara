@@ -1,0 +1,26 @@
+{
+   "lodList" : [
+      {
+         "animationList" : [
+            {
+               "file" : "$GAME_DATA/Character/Char_Tools/Char_spudgun/Barrel/Barrel_spinner/ani_char_spudgun_barrel_spinner_rotation.dae",
+               "looping" : true,
+               "name" : "spudgun_spinner_shoot_fp"
+            },
+            {
+               "file" : "$CONTENT_DATA/Objects/Renderables/playerhide_anim.dae",
+               "looping" : true,
+               "name" : "spudgun_spinner_shoot_tp"
+            }
+         ],
+         "maxViewDistance" : 1000.0,
+         "mesh" : "$CONTENT_DATA/Objects/Renderables/hyperrealistic_capybara.fbx",
+         "subMeshList" : [
+            {
+               "material" : "Dif",
+               "textureList" : [ "$CONTENT_DATA/Objects/Renderables/Textures/capybara_dif.png", "", "" ]
+            }
+         ]
+      }
+   ]
+}
